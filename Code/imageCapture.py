@@ -8,8 +8,7 @@ def capture_image():
     if not cap.isOpened():
         print("Failed to open the camera")
         return
-
-    # Increase brightness
+    
     cap.set(cv2.CAP_PROP_BRIGHTNESS, 0.5)
 
     ret, frame = cap.read()
