@@ -1,10 +1,12 @@
 Image,Predicted Name,Distance,Date,Time,Day
-face8.png,Davis,0.4289293587207794,2023-10-26,16:14:27,Thursday
-face1.png,Aakash,0.4804382622241974,2023-10-26,16:14:32,Thursday
-face0.png,Dharun,0.4389987587928772,2023-10-26,16:14:34,Thursday
-face2.png,Salman,0.5612613558769226,2023-10-26,16:14:36,Thursday
-face3.png,Vishnu,0.4437435269355774,2023-10-26,16:14:39,Thursday
-face7.png,Cranio,0.4289030432701111,2023-10-26,16:14:41,Thursday
-face6.png,Siddarth,0.618960976600647,2023-10-26,16:14:43,Thursday
-face4.png,Sailesh,0.42798006534576416,2023-10-26,16:14:45,Thursday
-face5.png,Nitheeshwaran,0.5488510727882385,2023-10-26,16:14:47,Thursday
+face10.png,Vishnu,0.6825990080833435,2023-12-04,11:06:45,Monday
+face8.png,Davis,0.0,2023-12-04,11:06:50,Monday
+face9.png,Davis,0.7167333960533142,2023-12-04,11:06:53,Monday
+face1.png,Aakash,0.0,2023-12-04,11:06:57,Monday
+face0.png,Dharun,0.0,2023-12-04,11:06:59,Monday
+face2.png,Salman,0.0,2023-12-04,11:07:01,Monday
+face3.png,Vishnu,0.0,2023-12-04,11:07:03,Monday
+face7.png,Cranio,0.0,2023-12-04,11:07:06,Monday
+face6.png,Siddarth,0.0,2023-12-04,11:07:08,Monday
+face4.png,Cranio,0.7484788298606873,2023-12-04,11:07:10,Monday
+face5.png,Nitheeshwaran,0.0,2023-12-04,11:07:13,Monday
